@@ -2,7 +2,7 @@
 - 👀 I’m interested in making website,mobile applications.
 - 🌱 I’m currently learning BScIT from M.L.Dahanukar College
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through email pawanbhirawandekar@gmail.com
+- 📫 Reach me through email pawanbhirawandekar@gmail.com
 
 <!---
 Pawanb15/Pawanb15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
