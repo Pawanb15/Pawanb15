@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pawanb15
-- 👀 I’m interested in making website,mobile applications.
-- 🌱 I’m currently learning BScIT from M.L.Dahanukar College
+- 👋 Hi, I’m Pawan Bhirawandekar.
+- 👀 I’m interested in making websites and mobile applications.
+- 🌱 I’m currently learning BScIT from M.L.Dahanukar College.
 - 📫 Reach me through email pawanbhirawandekar@gmail.com
 
 <!---
